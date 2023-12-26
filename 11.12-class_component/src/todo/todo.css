@@ -1,0 +1,39 @@
+/* Add these styles to your CSS file */
+
+div {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: beige;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #54cf5e;
+  }
+  
+  .toggle-btn {
+    background-color: #949794;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .toggle-btn:hover {
+    background-color: #3a68ad;
+  }
+  

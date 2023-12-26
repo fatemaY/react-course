@@ -1,0 +1,23 @@
+npm create vite@latest
+npm run dev
+ cd 
+  npm install
+  npm run dev
+
+fatema_Portfolio
+Git switch main- to go back to the main branch
+Git branch —show-current :to know which branch we’re in.
+Git checkout -b “” : create a new branch
+
+Create a react app in a new folder and push it to your repo, 
+after this in the terminal use the git branch checkout command to
+ create a new branch. After creating it try to go back to your main branch
+ to see that everything is working! Tip- 
+I use the GitHub desktop to publish and push branches to my remote repo, 
+btw I can move and switch between branches using the desktop app, 
+but prefer to do it in the terminal just to remember the commands.
+
+https://www.youtube.com/watch?v=epRUoJ68owg&t=399s&ab_channel=HongLyTech
+https://www.youtube.com/watch?v=kDnRdXUKx8k
+
+https://6571d11bd61ba6fcc013a871.mockapi.io/users

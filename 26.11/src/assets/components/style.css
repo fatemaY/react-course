@@ -1,0 +1,32 @@
+/* styles.css */
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(243, 247, 60);
+    margin-top: 10px;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 50px;
+
+  }
+  .container{
+    border: 5px solid gray;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+  }
+  .button{
+     background-color: white;
+     color: black;
+     border: 2px solid rgb(4, 43, 170);
+  }
+ 
+  .checkbox{
+    display: flex;
+    flex-direction: column;
+  }
+  label{
+    margin: auto;
+    gap: 20px;
+
+}

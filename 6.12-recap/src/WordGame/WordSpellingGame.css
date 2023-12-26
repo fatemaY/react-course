@@ -1,0 +1,21 @@
+.Word-Game{
+    width: 100%;
+    height: 100%;
+    padding-top: 150px;
+    gap: 15px;
+
+}
+.Word-Game input {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    
+}
+.Word-Game .word-input{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.Word-Game .border-true{
+    border: 10px solid green;
+}

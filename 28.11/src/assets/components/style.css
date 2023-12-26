@@ -1,0 +1,21 @@
+.start{
+    background-color: #f0cea1;
+    border: 0;
+    padding: 0.3rem 0.5rem;
+    box-shadow: 2px 2px 0 #000;
+    font-size: 1rem;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+.video-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+
+}
+.image-toggle{
+    width:200px;
+    height: 300px;
+}
+

@@ -1,0 +1,51 @@
+/* AnimatedBox.css */
+
+@keyframes slideIn {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes disappear {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  .animated-box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    position: fixed;
+    top: 50%;
+  }
+  
+  .small {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .medium {
+    width: 75px;
+    height: 75px;
+  }
+  
+  .large {
+    width: 125px;
+    height: 125px;
+  }
+  
+  .slide-in {
+    animation: slideIn 1s forwards;
+  }
+  
+  .disappear {
+    animation: disappear 1s forwards;
+  }
+  

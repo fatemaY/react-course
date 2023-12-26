@@ -1,0 +1,9 @@
+.OnlyDisplayCount{
+    padding: 50px;
+    border: red solid 3px;
+    text-align: center;
+}
+
+.OnlyDisplayCount p {
+    margin-bottom: 10px;
+}
